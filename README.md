@@ -4,7 +4,7 @@
 ### Get Started
 
 ```shell
-git clone https://github.com/Syed-Muhammad-Ali/Event_Wave.git
+git clone https://github.com/Syed-Muhammad-Ali/WebView_APP.git
 ```
 
 ```shell
